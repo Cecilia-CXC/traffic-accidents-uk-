@@ -12,7 +12,7 @@ This project involves looking performing analysis & geo-spatial analysis of traf
 1. Download the dataset from Kaggle:
 
 2. Open the notebook in Google Colab:
-   - Upload `SG Waste Management.ipynb` to Colab  
+   - Upload `Traffic Accidents in UK data pre-processing.ipynb` to Colab  
 
 3. Upload the downloaded dataset into Colab 
 
